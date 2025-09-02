@@ -45,7 +45,6 @@ async function showWelcome () {
 
 // Setup event listeners
 document.addEventListener('DOMContentLoaded', () => {
-  document.getElementById('result').hidden = true
   document.getElementById('welcomeButton').addEventListener('click', showWelcome)
   document.getElementById('nameInput').addEventListener('keypress', (e) => {
     if (e.key === 'Enter') showWelcome()
