@@ -1,0 +1,14 @@
+{
+    "name": "l1-welcome-app",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "lint": "npx eslint js/"
+    },
+    "author":
+        "Hanna Rubio Vretby <hr222sy@student.lnu.se>",
+    "devDependencies": {
+        "@lnu/eslint-config": "^1.1.10",
+        "eslint": "^8.57.0"
+    }
+}
