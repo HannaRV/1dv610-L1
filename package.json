@@ -1,9 +1,9 @@
 {
-    "name": "l1-welcome-app",
+    "name": "1dv610-l1",
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-        "lint": "npx eslint js/"
+        "lint": "npx eslint src/js"
     },
     "author":
         "Hanna Rubio Vretby <hr222sy@student.lnu.se>",
